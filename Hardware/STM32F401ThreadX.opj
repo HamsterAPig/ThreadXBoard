@@ -1,0 +1,108 @@
+(ExpressProject "STM32F401ThreadX"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S032 (4052516)  [8/29/2022]-[10/08/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\stm32f401threadx.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\PROGRAMFILES\CADENCE\SPB_174\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName
+         "C:\PROGRAMFILES\CADENCE\SPB_174\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Cap
+      (FullPartName "Cap.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CAPACITOR.OLB")
+      (DeviceIndex "0"))
+    (Button_2P
+      (FullPartName "Button_2P.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\OTHER.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "C:\PROGRAMFILES\CADENCE\SPB_174\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (inductor
+      (FullPartName "inductor.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\INDUCTOR.OLB")
+      (DeviceIndex "0"))
+    (3225_13
+      (FullPartName "3225_13.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (JW5250S
+      (FullPartName "JW5250S.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\IC.OLB")
+      (DeviceIndex "0"))
+    (CQ-USB-C16PSMT01
+      (FullPartName "CQ-USB-C16PSMT01.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName
+         "C:\PROGRAMFILES\CADENCE\SPB_174\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (STM32F401CCU
+      (FullPartName "STM32F401CCU.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\IC.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\stm32f401threadx.dsn")
+      (Path "Design Resources" ".\stm32f401threadx.dsn" "ThreadX"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 409 0 1079"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 35 5 2399 35 1139")
+        (Scroll "0 0")
+        (Zoom "252")
+        (Occurrence "/"))
+      (Path
+         "D:\COMPETITIONITENS\PRODUCTIONMODULE\THREADXBOARD\HARDWARE\STM32F401THREADX.DSN")
+      (Schematic "ThreadX")
+      (Page "MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2399 35 1139")
+        (Scroll "-445 -16")
+        (Zoom "126")
+        (Occurrence "/"))
+      (Path
+         "D:\COMPETITIONITENS\PRODUCTIONMODULE\THREADXBOARD\HARDWARE\STM32F401THREADX.DSN")
+      (Schematic "ThreadX")
+      (Page "PowerTree"))))
