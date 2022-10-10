@@ -57,8 +57,8 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define EC11_SW_Pin GPIO_PIN_13
-#define EC11_SW_GPIO_Port GPIOC
+#define EC11_SW_Pin GPIO_PIN_15
+#define EC11_SW_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
